@@ -1,1 +1,1 @@
-# goit-js-hw-06
+https://nexs12.github.io/goit-js-hw-06/
